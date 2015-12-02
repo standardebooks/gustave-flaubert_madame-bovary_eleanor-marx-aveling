@@ -17,33 +17,42 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Madame Bovary</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="file-as" refines="#title">Madame Bovary</meta>
+		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Domestic fiction</dc:subject>
+		<dc:subject id="subject-3">Married women -- Fiction</dc:subject>
+		<dc:subject id="subject-4">France -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Middle class -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Physicians' spouses -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Suicide victims -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/2413</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/2413</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/2413</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/2413</meta>
+		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/2413</meta>
+		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/2413</meta>
+		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/2413</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
 			LONGDESCRIPTION
 		]]></meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>LINK</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/2413</dc:source>
+		<meta property="se:word-count">https://en.wikipedia.org/wiki/Madame_Bovary</meta>
 		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/gustave-flaubert_madame-bovary</meta>
 		<dc:creator id="author">Gustave Flaubert</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
+		<meta property="file-as" refines="#author">Flaubert, Gustave</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Gustave_Flaubert</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79059896.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
+		<dc:contributor id="translator">Eleanor Marx-Aveling</dc:contributor>
+		<meta property="file-as" refines="#translator">Marx-Aveling, Eleanor</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Eleanor_Marx</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50029939.html</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
@@ -51,13 +60,18 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, A</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-2">Noah Adams</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Adams, Noah</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">David Widger</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
