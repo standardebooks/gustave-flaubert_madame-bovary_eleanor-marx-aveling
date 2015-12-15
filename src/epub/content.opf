@@ -42,7 +42,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/2413</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/012265348</dc:source>
-		<meta property="se:word-count">https://en.wikipedia.org/wiki/Madame_Bovary</meta>
+		<meta property="se:word-count">116117</meta>
+		<meta property="se:reading-ease.flesch">69.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/gustave-flaubert_madame-bovary</meta>
 		<dc:creator id="author">Gustave Flaubert</dc:creator>
