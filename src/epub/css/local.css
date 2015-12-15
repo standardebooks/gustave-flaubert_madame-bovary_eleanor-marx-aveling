@@ -1,22 +1,12 @@
+
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="dedication"]{
-	margin-top: 3em;
-}
-
-section > header{
-	text-align: center;
-}
-
-[epub|type~="bridgehead"]{
+[epub|type~="dedication"] p:first-child{
 	font-style: italic;
-	hyphens: none;
 	margin: 3em;
-	margin-top: 0;
-	text-align: left;
+	text-align: center;
 	text-indent: 0;
-	display: inline-block;
 }
 
 [epub|type="z3998:salutation"]{
@@ -60,11 +50,4 @@ b{
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
-}
-
-/* helpful during drafting */
-[epub|type~="z3998:roman"],
-[lang]:not(html),
-abbr{
-	background: #C0C0C0;
 }
