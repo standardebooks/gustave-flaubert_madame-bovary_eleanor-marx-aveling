@@ -32,13 +32,13 @@ b{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:song"] p span{
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-[epub|type~="z3998:song"] br{
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 
