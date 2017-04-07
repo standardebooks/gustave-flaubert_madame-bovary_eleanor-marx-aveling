@@ -1,4 +1,3 @@
-
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
@@ -9,7 +8,7 @@
 	text-indent: 0;
 }
 
-[epub|type="z3998:salutation"]{
+[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 	margin-top: 1em;
 }
@@ -42,6 +41,7 @@ b{
 	display: none;
 }
 
+[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:song"] + p{
 	text-indent: 0;
 }
