@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling</dc:identifier>
 		<dc:date>2015-12-23T01:39:47Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:25:02Z</meta>
-		<meta property="se:revision-number">32</meta>
+		<meta property="dcterms:modified">2017-07-27T20:23:56Z</meta>
+		<meta property="se:revision-number">33</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,8 +38,8 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Madame Bovary&lt;/i&gt;, often ranked among the greatest novels of all time, is considered Gustave Flaubert’s masterpiece, with authors from Henry James to Proust to Nabokov heaping it with praise.&lt;/p&gt;
-			&lt;p&gt;The novel tells the story of Madame Bovary, a commoner wife of a country doctor, and her attempts to escape the drudgery of day-to-day mediocrity by engaging in adulterous affairs and overspending on luxuries.  She remains unsatisfied even though her husband adores her and they want for little, and her shallowness eventually leads to their ruin.&lt;/p&gt;
-			&lt;p&gt;Today &lt;i&gt;Madame Bovary&lt;/i&gt;, with its careful but charming description of the banality of everyday life, is considered the first great example of literary realisim in fiction novels.  Eleanor Marx-Aveling’s translation, though over a hundred years old, is remarkably fresh and smooth, and is a pleasure even for modern readers.&lt;/p&gt;
+			&lt;p&gt;The novel tells the story of Madame Bovary, a commoner wife of a country doctor, and her attempts to escape the drudgery of day-to-day mediocrity by engaging in adulterous affairs and overspending on luxuries. She remains unsatisfied even though her husband adores her and they want for little, and her shallowness eventually leads to their ruin.&lt;/p&gt;
+			&lt;p&gt;Today &lt;i&gt;Madame Bovary&lt;/i&gt;, with its careful but charming description of the banality of everyday life, is considered the first great example of literary realisim in fiction novels. Eleanor Marx-Aveling’s translation, though over a hundred years old, is remarkably fresh and smooth, and is a pleasure even for modern readers.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
