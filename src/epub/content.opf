@@ -53,9 +53,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A middle-class country wife tries to satisfy her yearnings for a luxurious life by engaging in various affairs.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Madame Bovary&lt;/i&gt;, often ranked among the greatest novels of all time, is considered Gustave Flaubert’s masterpiece, with authors from Henry James to Proust to Nabokov heaping it with praise.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Madame Bovary&lt;/i&gt;, often ranked among the greatest novels of all time, is considered <a href="https://standardebooks.org/ebooks/gustave-flaubert">Gustave Flaubert’s</a> masterpiece, with authors from <a href="https://standardebooks.org/ebooks/henry-james">Henry James</a> to Proust to Nabokov heaping it with praise.&lt;/p&gt;
 			&lt;p&gt;The novel tells the story of Madame Bovary, a commoner wife of a country doctor, and her attempts to escape the drudgery of day-to-day mediocrity by engaging in adulterous affairs and overspending on luxuries. She remains unsatisfied even though her husband adores her and they want for little, and her shallowness eventually leads to their ruin.&lt;/p&gt;
-			&lt;p&gt;Today &lt;i&gt;Madame Bovary&lt;/i&gt;, with its careful but charming description of the banality of everyday life, is considered the first great example of literary realisim in fiction novels. Eleanor Marx-Aveling’s translation, though over a hundred years old, is remarkably fresh and smooth, and is a pleasure even for modern readers.&lt;/p&gt;
+			&lt;p&gt;Today &lt;i&gt;Madame Bovary&lt;/i&gt;, with its careful but charming description of the banality of everyday life, is considered the first great example of literary realism in fiction novels. Eleanor Marx-Aveling’s translation, though over a hundred years old, is remarkably fresh and smooth, and is a pleasure even for modern readers.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2413</dc:source>
