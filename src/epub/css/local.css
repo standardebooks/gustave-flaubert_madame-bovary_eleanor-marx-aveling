@@ -12,11 +12,11 @@
 	margin-top: 1em;
 }
 
-.signature{
+[epub:type~="z3998:signature"]{
 	text-align: right;
 }
 
-[epub|type~="dedication"] .signature{
+[epub|type~="dedication"] [epub:type~="z3998:signature"]{
 	margin-top: 1em;
 }
 
