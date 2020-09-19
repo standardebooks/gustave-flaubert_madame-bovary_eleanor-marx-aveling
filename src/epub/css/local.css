@@ -35,8 +35,7 @@
 	display: none;
 }
 
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:song"] + p{
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
