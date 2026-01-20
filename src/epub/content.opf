@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2413</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012265348</dc:source>
 		<meta property="se:production-notes">Checked against the Modern Library edition to correct a large amount of typos, misspellings, and missing accent marks from the Gutenberg transcription.</meta>
-		<meta property="se:word-count">116549</meta>
+		<meta property="se:word-count">115723</meta>
 		<meta property="se:reading-ease.flesch">69.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Madame_Bovary</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/gustave-flaubert_madame-bovary_eleanor-marx-aveling</meta>
