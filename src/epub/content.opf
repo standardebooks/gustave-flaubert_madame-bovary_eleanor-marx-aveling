@@ -54,6 +54,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">10</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">22</meta>
 		<dc:description id="description">A middle-class country wife tries to satisfy her yearnings for a luxurious life by engaging in various affairs.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Madame Bovary&lt;/i&gt;, often ranked among the greatest novels of all time, is &lt;a href="https://standardebooks.org/ebooks/gustave-flaubert"&gt;Flaubert’s&lt;/a&gt; first novel, and considered to be both his masterpiece and one of the most influential works in literary history, with authors from &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt; to Proust to Nabokov heaping it with praise.&lt;/p&gt;
