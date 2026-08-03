@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling</dc:identifier>
 		<dc:date>2015-12-23T01:39:47Z</dc:date>
@@ -58,14 +58,14 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">22</meta>
-		<dc:description id="description">A middle-class country wife tries to satisfy her yearnings for a luxurious life by engaging in various affairs.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A middle-class country wife tries to satisfy her yearnings for a luxurious life by engaging in various affairs.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Madame Bovary&lt;/i&gt;, often ranked among the greatest novels of all time, is &lt;a href="https://standardebooks.org/ebooks/gustave-flaubert"&gt;Flaubert’s&lt;/a&gt; first novel, and considered to be both his masterpiece and one of the most influential works in literary history, with authors from &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt; to Proust to Nabokov heaping it with praise.&lt;/p&gt;
 			&lt;p&gt;The novel tells the story of Emma Bovary, a commoner wife of a country doctor, and her attempts to escape the drudgery of day-to-day mediocrity by engaging in adulterous affairs and overspending on luxuries. She remains unsatisfied even though her husband adores her and they want for little, and her shallowness eventually leads to their ruin.&lt;/p&gt;
 			&lt;p&gt;The story was first serialized in &lt;i&gt;Revue de Paris&lt;/i&gt;, where prosecutors tried to have it censored for obscenity, arguing that not only is the story immoral, but that realism as a literary style is an offence against art and decency. The trial only served to increase the story’s fame, and when it was published as a single novel it quickly became a bestseller.&lt;/p&gt;
 			&lt;p&gt;The novel is groundbreaking in its emphasis on the psychological and emotional lives of its characters. Literature up to then had mostly focusing on the external events that make characters react, instead of focusing on the internal thought processes of those characters. &lt;i&gt;Madame Bovary&lt;/i&gt; changed that forever. It was also revolutionary in its criticism of the middle class, which at the time was a still-new social class vying for elbow room between the working poor and hereditary aristocracy. Flaubert critiqued the middle class as being ambitious, shallow, greedy, materialistic, and totally without culture; Emma’s burning desire to reach even higher social strata, contrasted against that satisfaction being fundamentally denied to her by her middle-class nature, is an early echo of &lt;a href="https://standardebooks.org/ebooks/karl-marx_friedrich-engels"&gt;Marx’s&lt;/a&gt; theory of alienation in industrial societies.&lt;/p&gt;
 			&lt;p&gt;Today &lt;i&gt;Madame Bovary&lt;/i&gt;, with its careful but charming description of the banality of everyday life, is considered the first great example of literary realism in fiction novels. Eleanor Marx-Aveling’s translation, though over a hundred years old, is remarkably fresh and smooth, and is a pleasure even for modern readers.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2413</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012265348</dc:source>
